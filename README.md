@@ -1,6 +1,6 @@
 # JDBC Connection
 
-Description: A simple java program demonstrating how to connect 
+**Description:** A simple java program demonstrating how to connect 
 to a MySQL database using JDBC (Java Database Conenctivity).
 
 **JDBC Java Database Connectivity**
