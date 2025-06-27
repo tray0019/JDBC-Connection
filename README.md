@@ -19,3 +19,6 @@ Java database connectivity. It is part of the Java Standard Edition platform, fr
 
 **Technologies**
 - Java 21, Git and GitHub, Eclipse, MySQL workbench, JDBC
+
+
+![image](https://github.com/user-attachments/assets/daed7f54-ec15-4db4-bbf7-0358b31fa589)
